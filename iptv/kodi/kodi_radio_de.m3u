@@ -291,6 +291,8 @@ http://stream.radiosaw.de
 http://stream.radiotop40.de/live/mp3-192
 #EXTINF:-1 tvg-name="Radio TEDDY" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY
 http://streamtdy.ir-media-tec.com/live/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio Westfalica" group-title="Deutschland" radio="true" tvg-logo="https://m.media-amazon.com/images/I/41r+Br9lvjL.png",Radio Westfalica
+https://radiowestfalica--di--nacs-ais-lgc--03--cdn.cast.addradio.de/radiowestfalica/live/mp3/high
 #EXTINF:-1 tvg-name="rbb Inforadio" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbInforadio.png",rbb Inforadio
 https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
 #EXTINF:-1 tvg-name="rbbKultur" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbKultur.png",rbbKultur
